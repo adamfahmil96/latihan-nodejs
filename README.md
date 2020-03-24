@@ -6,7 +6,6 @@ My personal documentation about learning NodeJS.
 
 * [NodeJS](https://nodejs.org/en/) - The main part
 * [MongoDB](https://www.mongodb.com/) - The database that I use (MongoDB Compass Comunity)
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
 
 ## Git Documentation
 
