@@ -8,7 +8,6 @@ My personal documentation about learning NodeJS.
 
 * [NodeJS](https://nodejs.org/en/) - The main part
 * [MongoDB](https://www.mongodb.com/) - The database that I use (MongoDB Compass Comunity)
-<<<<<<< HEAD
 
 ### Commands
 
@@ -27,7 +26,6 @@ npm start   // start to run package of JSON
 * [dotenv](https://www.npmjs.com/package/dotenv) - Zero-dependency module that loads environment variables from a .env file into process.env
 
 =======
->>>>>>> ecd066677973665245a12af06a28550d491b8bf3
 
 ## Git Documentation
 
@@ -69,9 +67,5 @@ Mas [Ahmad](https://github.com/198cad), thank you very much for giving me the op
 
 ### "Online" Mentor
 
-<<<<<<< HEAD
 * [Build A Restful Api With Node.js Express & MongoDB | Rest Api Tutorial](https://youtu.be/vjf774RKrLc)
 * [MongoDB Compass - GUI (Graphical User Interface) for Mongodb](https://youtu.be/OuXMFV49138)
-=======
-Mas [Ahmad](https://github.com/198cad), thank you very much for giving me the opportunity to learn NodeJS privately in our office.
->>>>>>> ecd066677973665245a12af06a28550d491b8bf3
