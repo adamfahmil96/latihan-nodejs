@@ -2,16 +2,21 @@ const mongoose  = require("mongoose"); // memanggil blue-print mongoose
 const Schema    = mongoose.Schema;  // kita menggunakan method Schema untuk membuat document (table)
 
 const dataUser = {
-    nama        : String,
-    nip         : String,
-    kepegawaian : String,
-    pendidikan  : String,
-    pk          : String,
-    jabatan     : String,
-    ruangan     : String,
-    username    : String,
-    password    : String,
-    activated   : Boolean
+    nama            : String,
+    alamat          : String,
+    lahir_tgl       : String,
+    lahir_tempat    : String,
+    gender          : String,
+    pendidikan      : String,
+    pekerjaan       : String,
+    marital_status  : String,
+    kewarganegaraan : String,
+    suku            : String,
+    golongan_darah  : String,
+    nik             : String,
+    no_bpjs         : String,
+    roles           : String,
+    activated       : Boolean
 }
 const userSchema = new Schema(dataUser);
 

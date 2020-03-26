@@ -4,9 +4,27 @@ My personal documentation about learning NodeJS.
 
 ## Getting Started
 
+### Technology
+
 * [NodeJS](https://nodejs.org/en/) - The main part
 * [MongoDB](https://www.mongodb.com/) - The database that I use (MongoDB Compass Comunity)
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+
+### Commands
+
+```
+npm init    // create new project, then create package.json automatically
+npm install xxxmodules  // install module
+node index.js   // run "index.js" (our script)
+npm start   // start to run package of JSON
+```
+
+### Modules
+
+* [Express](https://expressjs.com/) - The Web Framework for NodeJS
+* [nodemon](https://www.npmjs.com/package/nodemon) - Automatically restarting the node application
+* [mongoose](https://mongoosejs.com/) - Elegant MongoDB object modeling for NodeJS
+* [dotenv](https://www.npmjs.com/package/dotenv) - Zero-dependency module that loads environment variables from a .env file into process.env
+
 
 ## Git Documentation
 
@@ -40,6 +58,13 @@ git remote add origin https://xxx.git 	// add git url as origin
 git push -u origin master		// push commit to origin, pass as master branch
 ```
 
-## My Mentor
+## Mentor
+
+### Personal Mentor
 
 Mas [Ahmad](https://github.com/198cad), thank you very much for giving me the opportunity to learn NodeJS privately in our office.
+
+### "Online" Mentor
+
+* [Build A Restful Api With Node.js Express & MongoDB | Rest Api Tutorial](https://youtu.be/vjf774RKrLc)
+* [MongoDB Compass - GUI (Graphical User Interface) for Mongodb](https://youtu.be/OuXMFV49138)
