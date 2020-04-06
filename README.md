@@ -6,8 +6,8 @@ My personal documentation about learning NodeJS.
 
 ### Technology
 
-* [NodeJS](https://nodejs.org/en/) - The main part
-* [MongoDB](https://www.mongodb.com/) - The database that I use (MongoDB Compass Comunity)
+- [NodeJS](https://nodejs.org/en/) - The main part
+- [MongoDB](https://www.mongodb.com/) - The database that I use (MongoDB Compass Comunity)
 
 ### Commands
 
@@ -20,10 +20,10 @@ npm start   // start to run package of JSON
 
 ### Modules
 
-* [Express](https://expressjs.com/) - The Web Framework for NodeJS
-* [nodemon](https://www.npmjs.com/package/nodemon) - Automatically restarting the node application
-* [mongoose](https://mongoosejs.com/) - Elegant MongoDB object modeling for NodeJS
-* [dotenv](https://www.npmjs.com/package/dotenv) - Zero-dependency module that loads environment variables from a .env file into process.env
+- [Express](https://expressjs.com/) - The Web Framework for NodeJS
+- [nodemon](https://www.npmjs.com/package/nodemon) - Automatically restarting the node application
+- [mongoose](https://mongoosejs.com/) - Elegant MongoDB object modeling for NodeJS
+- [dotenv](https://www.npmjs.com/package/dotenv) - Zero-dependency module that loads environment variables from a .env file into process.env
 
 =======
 
@@ -32,11 +32,13 @@ npm start   // start to run package of JSON
 Sometimes I forget about the syntax of Git, so I will post it here too...
 
 ### Check git is installed on your system
+
 ```
 git --version
 ```
-	
+
 ### Run following git commands
+
 ```
 git config --global user.name "xxx"	// set username
 git config --global user.name		// show username
@@ -50,6 +52,7 @@ git config --global --list		// show the configuration
 ### Create a demo project/folder & add to git
 
 ### Go to git bash, and CD to the location of the folder and run following commands
+
 ```
 git init				// initialize the folder (project)
 git status				// show status what changes in the folder
@@ -67,5 +70,7 @@ Mas [Ahmad](https://github.com/198cad), thank you very much for giving me the op
 
 ### "Online" Mentor
 
-* [Build A Restful Api With Node.js Express & MongoDB | Rest Api Tutorial](https://youtu.be/vjf774RKrLc)
-* [MongoDB Compass - GUI (Graphical User Interface) for Mongodb](https://youtu.be/OuXMFV49138)
+- [Build A Restful Api With Node.js Express & MongoDB | Rest Api Tutorial](https://youtu.be/vjf774RKrLc)
+- [MongoDB Compass - GUI (Graphical User Interface) for Mongodb](https://youtu.be/OuXMFV49138)
+- [Node JS Full Course - Learn Node.js in 7 Hours | Node.js Tutorial for Beginners | Edureka](https://youtu.be/JnvKXcSI7yk)
+- [Node.js Tutorial for Beginners: Learn Node in 1 Hour | Mosh](https://youtu.be/TlB_eWDSMt4)
