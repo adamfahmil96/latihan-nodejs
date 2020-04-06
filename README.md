@@ -74,3 +74,4 @@ Mas [Ahmad](https://github.com/198cad), thank you very much for giving me the op
 - [MongoDB Compass - GUI (Graphical User Interface) for Mongodb](https://youtu.be/OuXMFV49138)
 - [Node JS Full Course - Learn Node.js in 7 Hours | Node.js Tutorial for Beginners | Edureka](https://youtu.be/JnvKXcSI7yk)
 - [Node.js Tutorial for Beginners: Learn Node in 1 Hour | Mosh](https://youtu.be/TlB_eWDSMt4)
+- [Node.js Tutorial For Beginners | Node JS Crash Course](https://youtu.be/zQRrXTSkvfw)
