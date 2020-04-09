@@ -1,0 +1,17 @@
+{
+  "name": "dev-ed-rest",
+  "version": "1.0.0",
+  "description": "This folder is specifically intended for my documentation in learning REST API from Dev Ed's Youtube Tutorial. I built my REST API using NodeJS, Express, and MongoDB.",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "Muhammad Adam Fahmil 'Ilmi",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.9.7",
+    "nodemon": "^2.0.2"
+  }
+}
