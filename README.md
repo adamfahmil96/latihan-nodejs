@@ -24,6 +24,7 @@ npm start   // start to run package of JSON
 - [nodemon](https://www.npmjs.com/package/nodemon) - Automatically restarting the node application
 - [mongoose](https://mongoosejs.com/) - Elegant MongoDB object modeling for NodeJS
 - [dotenv](https://www.npmjs.com/package/dotenv) - Zero-dependency module that loads environment variables from a .env file into process.env
+- [body-parser](https://www.npmjs.com/package/body-parser) - Parse incoming request bodies in a middleware before your handlers, available under the req.body property.
 
 ## Git Documentation
 
@@ -74,3 +75,6 @@ Mas [Ahmad](https://github.com/198cad), thank you very much for giving me the op
 - [Node.js Tutorial for Beginners: Learn Node in 1 Hour | Mosh](https://youtu.be/TlB_eWDSMt4)
 - [Node.js Tutorial For Beginners | Node JS Crash Course](https://youtu.be/zQRrXTSkvfw)
 - [Memahami Middleware NodeJS Secara Singkat dan Mudah](https://medium.com/easyread/memahami-middleware-nodejs-secara-singkat-dan-mudah-di-pahami-c34e4e087e88)
+- [Async Javascript Tutorial For Beginners (Callbacks, Promises, Async Await)](https://www.youtube.com/watch?v=_8gHHBlbziw)
+- [Panduan Komplit Asynchronous Programming pada Javascript](https://medium.com/coderupa/panduan-komplit-asynchronous-programming-pada-javascript-part-1-fca22279c056)
+- [Function Callback Dalam JavaScript](https://www.dumetschool.com/blog/Function-Callback-Dalam-JavaScript)
