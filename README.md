@@ -25,6 +25,7 @@ npm start   // start to run package of JSON
 - [mongoose](https://mongoosejs.com/) - Elegant MongoDB object modeling for NodeJS
 - [dotenv](https://www.npmjs.com/package/dotenv) - Zero-dependency module that loads environment variables from a .env file into process.env
 - [body-parser](https://www.npmjs.com/package/body-parser) - Parse incoming request bodies in a middleware before your handlers, available under the req.body property.
+- [cors](https://www.npmjs.com/package/cors) - Can be used to enable CORS (Cross-origin resource sharing: mechanism that allows restricted resources on a web page to be requested from another domain outside the domain from which the first resource was served) with various options.
 
 ## Git Documentation
 
