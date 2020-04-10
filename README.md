@@ -25,8 +25,6 @@ npm start   // start to run package of JSON
 - [mongoose](https://mongoosejs.com/) - Elegant MongoDB object modeling for NodeJS
 - [dotenv](https://www.npmjs.com/package/dotenv) - Zero-dependency module that loads environment variables from a .env file into process.env
 
-=======
-
 ## Git Documentation
 
 Sometimes I forget about the syntax of Git, so I will post it here too...
