@@ -1,0 +1,30 @@
+{
+  "name": "ipung-rest",
+  "version": "1.0.0",
+  "description": "Learning REST API using Node JS from Ipung Dev's tutorial on his YouTube Channel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adamfahmil96/latihan-nodejs.git"
+  },
+  "keywords": [
+    "REST",
+    "API",
+    "Node",
+    "JS",
+    "Indonesia",
+    "Ipung",
+    "Dev",
+    "Adam",
+    "Fahmil"
+  ],
+  "author": "Muhammad Adam Fahmil 'Ilmi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adamfahmil96/latihan-nodejs/issues"
+  },
+  "homepage": "https://github.com/adamfahmil96/latihan-nodejs#readme"
+}
